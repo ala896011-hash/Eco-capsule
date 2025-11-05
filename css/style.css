@@ -39,11 +39,14 @@ footer{
 	justify-content: space-between;
 	padding: 10px 0;
 }
-.footer_item{
+.footer_item {
 	width: 22%;
 	height: 60px;
 	background: #545452;
-	border-radius: 60px 60px;
+	border-radius: 60px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 img{
 	width: 35%;
@@ -51,4 +54,5 @@ img{
 footer .footer_item img {
   width: 20%;
   height: auto;
+
 }
