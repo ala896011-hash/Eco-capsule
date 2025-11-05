@@ -31,7 +31,7 @@ main{
 	justify-content: space-between;
 }
 .main_item{
-	width: 18%;
+	width: 10%;
 	font-size: 18px;
 }
 footer{
@@ -56,3 +56,4 @@ footer .footer_item img {
   height: auto;
 
 }
+
